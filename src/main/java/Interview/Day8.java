@@ -20,19 +20,14 @@ public class Day8 {
         return max;
     }
 
-    public void findPath(TreeNode root) {
-        if (root != null) {
-            int res = longestPath(root.left) + longestPath(root.right);
-            max = res > max ? res : max;
-            findPath(root.left);
-            findPath(root.right);
-        }
-    }
-
-    public int longestPath(TreeNode root) {
+    public int findPath(TreeNode root) {
         if (root == null) {
             return 0;
         }
-        return Math.max(longestPath(root.left), longestPath(root.right)) + 1;
+        int left = findPath(root.left);
+        int right = findPath(root.right);
+        int res = left + right;
+        max = res > max ? res : max;
+        return Math.max(left, right) + 1;
     }
 }
