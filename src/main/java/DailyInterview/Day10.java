@@ -1,4 +1,4 @@
-package Interview;
+package DailyInterview;
 
 /**
  * https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/

@@ -1,7 +1,6 @@
-package Interview;
+package DailyInterview;
 
 import java.util.Arrays;
-import java.util.HashMap;
 
 /**
  * https://leetcode-cn.com/problems/coin-change/submissions/

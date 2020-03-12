@@ -1,4 +1,4 @@
-package Interview;
+package DailyInterview;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

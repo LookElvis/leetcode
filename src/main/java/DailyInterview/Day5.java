@@ -1,9 +1,7 @@
-package Interview;
+package DailyInterview;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.Queue;
-import java.util.Stack;
 
 /**
  * Created by Elvis on 2020/3/7.
