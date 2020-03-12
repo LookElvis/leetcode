@@ -1,4 +1,4 @@
-package Easy.E601_700;
+package Easy.E701_800;
 
 /**
  * https://leetcode.com/submissions/detail/177052425/
