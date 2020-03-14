@@ -8,7 +8,7 @@ import java.util.List;
  * https://leetcode-cn.com/problems/4sum/
  * Created by Elvis on 2020/3/14.
  */
-public class M018_ {
+public class M018_4Sum {
     public static void main(String[] args) {
 
     }
