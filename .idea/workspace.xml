@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fade2b1c-b9e4-470f-acfa-cd5b0da8b687" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/DailyInterview/Day14.java" afterPath="$PROJECT_DIR$/src/main/java/DailyInterview/Day14.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -61,8 +61,8 @@
       <file leaf-file-name="Day14.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/DailyInterview/Day14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="90">
+              <caret line="3" column="57" lean-forward="false" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -925,15 +925,15 @@
       <workItem from="1584173693408" duration="1756000" />
       <workItem from="1584235888421" duration="18000" />
       <workItem from="1584237379010" duration="593000" />
-      <workItem from="1584326339761" duration="52000" />
+      <workItem from="1584326339761" duration="168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39104000" />
+    <option name="totallyTimeSpent" value="39220000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1370,8 +1370,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DailyInterview/Day14.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="90">
+          <caret line="3" column="57" lean-forward="false" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
           <folding />
         </state>
       </provider>
