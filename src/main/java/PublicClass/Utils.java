@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Queue;
 
 /**
+ * 常用工具类
  * Created by liuxiang on 2018/10/11.
  */
 public class Utils {
