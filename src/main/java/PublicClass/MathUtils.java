@@ -20,7 +20,6 @@ public class MathUtils {
         return -1;
     }
 
-
     // 求1-N的逆元,避免另一种方式超时
     public static long[] reverseArray(int N, int MOD) {
 //        int N = 200000 + 5;
