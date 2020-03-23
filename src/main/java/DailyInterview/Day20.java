@@ -7,6 +7,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
+ * https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/
  * Created by Elvis on 2020/3/22.
  */
 public class Day20 {
@@ -29,8 +30,7 @@ public class Day20 {
         for (int i = 0; i < A.length; i++) {
             count[A[i]]++;
         }
-        Utils.printIntArrays(count);
-
+//        Utils.printIntArrays(count);
         int taken = 0;
         int res = 0;
         for (int i = 0; i < count.length; i++) {
