@@ -1,4 +1,4 @@
-package DailyInterview;
+package DailyInterview.Day1_20;
 
 /**
  * https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/zui-chang-shang-sheng-zi-xu-lie-by-leetcode-soluti/

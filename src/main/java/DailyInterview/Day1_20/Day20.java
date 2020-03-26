@@ -1,10 +1,4 @@
-package DailyInterview;
-
-import PublicClass.Utils;
-
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
+package DailyInterview.Day1_20;
 
 /**
  * https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/

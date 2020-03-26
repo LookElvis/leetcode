@@ -1,4 +1,4 @@
-package DailyInterview;
+package DailyInterview.Day1_20;
 
 /**
  * https://leetcode-cn.com/problems/max-area-of-island/
