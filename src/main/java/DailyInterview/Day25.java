@@ -1,4 +1,4 @@
-package DailyInterview.Day1_20;
+package DailyInterview;
 
 
 /**
