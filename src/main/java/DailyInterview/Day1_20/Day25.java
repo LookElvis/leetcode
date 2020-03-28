@@ -2,7 +2,7 @@ package DailyInterview.Day1_20;
 
 
 /**
- * https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/solution/qia-pai-fen-zu-by-leetcode-solution/
+ * https://leetcode-cn.com/submissions/detail/57260632/
  * Created by Elvis on 2020/3/27.
  */
 public class Day25 {
