@@ -9,12 +9,25 @@ package Easy.E101_200;
 public class E122_Best_Time_to_Buy_and_Sell_StockII {
     public static void main(String[] args) {
         int[] prices = {7,1,5,3,6,4};
-        int max = maxProfit(prices);
+        int max = maxProfit1(prices);
         System.out.println(max);
     }
 
-    public static int maxProfit(int[] prices) {
-        if(prices == null || prices.length == 0) {
+    public int maxProfit(int[] prices) {
+        int[][] dp = new int[prices.length][2];
+        // i-0代表未持有，i-1代表持有
+        int dp_i0 = 0;
+        int dp_i1 = Integer.MIN_VALUE;
+        for (int i = 0; i < prices.length; i++) {
+            int t = dp_i0;
+            dp_i0 = Math.max(dp_i0, dp_i1 + prices[i]);
+            dp_i1 = Math.max(dp_i1, t - prices[i]);
+        }
+        return dp_i0;
+    }
+
+    public static int maxProfit1(int[] prices) {
+        if (prices == null || prices.length == 0) {
             return 0;
         }
         int totalPrice = 0;
