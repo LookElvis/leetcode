@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * https://leetcode-cn.com/problems/generate-parentheses/
  * Created by Elvis on 2020/4/9.
  */
 public class Day38 {
