@@ -5,8 +5,8 @@ package Medium;
  * Created by Elvis on 2020/3/30.
  */
 public class M516_Longest_Palindromic_Subsequence {
-    // 最长公共回文串，dp[i][j]代表字符串[i,j]中的最长公共回文串
-    // i从len开始往前遍历，j从i往后找，如果i和j的字符相等则[i+1,j-1]+1
+    // 最长公共回文子序列，dp[i][j]代表字符串[i,j]中的最长公共回文子序列
+    // i从len开始往前遍历，j从i往后找，如果i和j的字符相等则[i+1,j-1]+2
     // 如果不相等则取[i+1,j]和[i,j-1]的最大值
     public int longestPalindromeSubseq(String s) {
         int len = s.length();
