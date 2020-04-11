@@ -8,7 +8,7 @@ import PublicClass.ListNode;
  */
 public class Day21 {
     // 快慢指针的经典用法，找中间节点
-    // 对于1->2->3->4来说会取4作为中间节点
+    // 对于1->2->3->4来说会取3作为中间节点
     // 如果需要取2作为中间节点，插入头结点即可
     public ListNode middleNode(ListNode head) {
         ListNode slow = head;
