@@ -1,8 +1,7 @@
-package DailyInterview;
+package DailyInterview.Day21_40;
 
 import java.util.HashMap;
 import java.util.LinkedHashSet;
-import java.util.LinkedList;
 import java.util.Map;
 
 /**

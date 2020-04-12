@@ -1,4 +1,4 @@
-package DailyInterview;
+package DailyInterview.Day21_40;
 
 /**
  * Created by Elvis on 2020/4/7.

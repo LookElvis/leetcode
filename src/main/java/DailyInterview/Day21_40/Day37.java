@@ -1,4 +1,4 @@
-package DailyInterview;
+package DailyInterview.Day21_40;
 
 /**
  * https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/

@@ -1,6 +1,4 @@
-package DailyInterview;
-
-import PublicClass.TreeNode;
+package DailyInterview.Day21_40;
 
 import java.util.Arrays;
 
