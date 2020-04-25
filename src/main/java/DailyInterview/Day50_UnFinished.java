@@ -1,4 +1,4 @@
-package DailyInterview.Day21_40;
+package DailyInterview;
 
 /**
  * https://leetcode-cn.com/problems/coin-lcci/

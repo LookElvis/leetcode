@@ -1,4 +1,4 @@
-package DailyInterview.Day21_40;
+package DailyInterview;
 
 import PublicClass.TreeNode;
 import java.util.ArrayDeque;
