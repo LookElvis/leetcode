@@ -10,7 +10,7 @@ import java.util.List;
  */
 public class Day52 {
     public static void main(String[] args) {
-
+        int i = 0;
     }
 
     List<List<Integer>> res = new ArrayList<>();
