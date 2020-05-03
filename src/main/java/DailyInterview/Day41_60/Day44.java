@@ -1,4 +1,4 @@
-package DailyInterview;
+package DailyInterview.Day41_60;
 
 import PublicClass.Utils;
 import java.util.ArrayList;

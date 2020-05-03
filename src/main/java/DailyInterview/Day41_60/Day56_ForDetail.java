@@ -1,4 +1,4 @@
-package DailyInterview;
+package DailyInterview.Day41_60;
 
 /**
  * https://leetcode-cn.com/problems/find-in-mountain-array/

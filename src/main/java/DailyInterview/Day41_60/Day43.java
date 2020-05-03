@@ -1,9 +1,7 @@
-package DailyInterview;
+package DailyInterview.Day41_60;
 
 import PublicClass.ListNode;
 import PublicClass.Utils;
-
-import java.util.List;
 
 /**
  * https://leetcode-cn.com/problems/add-two-numbers-ii/
