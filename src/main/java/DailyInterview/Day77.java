@@ -8,6 +8,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
+ * LRU
  * https://leetcode-cn.com/problems/lru-cache/
  * Created by Elvis on 2020/5/22.
  */
@@ -36,14 +37,12 @@ class LRUCache {
     public void put(int key, int value) {
         if (map.containsKey(key)) {
             map.remove(key);
-            map.put(key, value);
-        } else {
-            if (map.size() == capacity) {
-                Iterator<Integer> it = map.keySet().iterator();
-                int val = it.next();
-                map.remove(val);
-            }
-            map.put(key, value);
         }
+        if (map.size() == capacity) {
+            Iterator<Integer> it = map.keySet().iterator();
+            int val = it.next();
+            map.remove(val);
+        }
+        map.put(key, value);
     }
 }
