@@ -1,4 +1,4 @@
-package DailyInterview;
+package DailyInterview.Day61_80;
 
 import PublicClass.ListNode;
 import java.util.List;

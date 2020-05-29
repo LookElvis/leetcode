@@ -1,6 +1,4 @@
-package DailyInterview;
-
-import java.util.Arrays;
+package DailyInterview.Day61_80;
 
 /**
  * https://leetcode-cn.com/problems/longest-palindromic-substring/
